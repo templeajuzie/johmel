@@ -368,6 +368,13 @@ const FooterComp = () => {
                 Rivers State – NIGERIA
               </span>
             </p>
+            <p className='my-3 block'>
+              #16 Uyo street, Port Harcourt
+              <span className='text-teal-600 text-xs p-1'>
+                {' '}
+                Rivers State – NIGERIA
+              </span>
+            </p>
             <p className='my-3 block' >
               info@johmelng.org
               <span className='text-teal-600 text-xs p-1'></span>

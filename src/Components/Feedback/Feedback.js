@@ -2,7 +2,7 @@
 
 const FeedbackComp = () => {
   return (
-    <section className='text-gray-400body-font relative md:px-16'>
+    <section className='text-gray-400 body-font relative md:px-16'>
       <div className='container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap'>
         <div className='lg:w-2/3 md:w-1/2 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative'>
           <iframe
@@ -24,6 +24,9 @@ const FeedbackComp = () => {
               <p className='mt-1 text-white'>
               #4 Unity Close, Off Okocha Road Rumuolumini, Port Harcourt Rivers State – NIGERIA
               </p>
+              <p className='mt-1 text-white'>
+              #4 16 Uyo street, Port Harcourt Rivers State – NIGERIA
+              </p>
             </div>
             <div className='lg:w-1/2 px-6 mt-4 lg:mt-0'>
               <h2 className='title-font font-semibold text-[#00A651] tracking-widest text-xs'>
@@ -34,7 +37,7 @@ const FeedbackComp = () => {
                 PHONE
               </h2>
               <p className='leading-relaxed text-white'>
-                +2348033390141, +2348088850400
+                +2348033390141, +2349012417552
               </p>
             </div>
           </div>

@@ -43,6 +43,7 @@ const PolicyComp = () => {
             encourage you to carefully read and understand the full version of
             our Terms and Conditions of Use
           </h1>
+          
         </div>
 
         <div className="body h-screen">

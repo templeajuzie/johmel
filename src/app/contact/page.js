@@ -6,7 +6,7 @@ import NavbarComp from '@/Components/Navbar/NavbarComp';
 
 const ContactUs = () => {
   return (
-    <div className="flex min-h-screen flex-col bg-black">
+    <div className="flex h-auto flex-col bg-black">
       <NavbarComp />
       <FeedbackComp />
       <FooterComp />
