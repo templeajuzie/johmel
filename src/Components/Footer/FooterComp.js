@@ -373,7 +373,7 @@ const FooterComp = () => {
               <span className='text-teal-600 text-xs p-1'></span>
             </p>
             <p className='my-3 w-full block' >
-              +2348033390141, +2348088850400
+              +2348033390141, +2349012417552
               <span className='text-teal-600 text-xs p-1'></span>
             </p>
           </div>
