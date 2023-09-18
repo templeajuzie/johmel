@@ -4,7 +4,7 @@ const Newsletter2 = () => {
       className='my-8 rounded-lg shadow-md px-6 md:flex flex-row align-middle justify-between md:px-16'
       aria-label='Subscribe to the Flowbite newsletter'>
       <div className='a'>
-        <h3 className='mb-3 text-xl font-medium text-gray-900 dark:text-white'>
+        <h3 className='mb-3 text-xl font-medium text-white dark:text-white'>
           Get more updates...
         </h3>
         <p className='mb-5 text-sm font-medium text-gray-500 dark:text-gray-300 lg:w-2/3'>
