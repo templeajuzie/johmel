@@ -36,16 +36,17 @@ const PolicyComp = () => {
       <div className='general'>
         <div className='flex flex-col text-center w-full mb-20'>
           <h2 className='text-lg text-[#00A651] tracking-widest font-medium title-font mb-1'>
-            Terms and Conditions of Use
+            Terms and Conditions of Use and Policy!
           </h2>
           <h1 className='sm:text-3xl text-2xl font-medium title-font mb-4 text-black lg:px-48'>
             Before you explore our services or interact with our website, we
             encourage you to carefully read and understand the full version of
             our Terms and Conditions of Use
           </h1>
-         
+        </div>
 
-          
+        <div className="body h-screen">
+
         </div>
       </div>
     </div>
